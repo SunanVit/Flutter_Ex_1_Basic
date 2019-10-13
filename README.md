@@ -26,7 +26,7 @@
 
 **เพียงเท่านี้ก็จะได้โค้ดตัวอย่างในการเริ่มต้นแล้ว**
 
-![Image of ex1](https://github.com/SunanVit/Flutter_Ex_1_Basic/blob/master/ex1.png)
+![Image of ex1](https://github.com/SunanVit/Flutter_Ex_1_Basic/blob/master/cmder.png)
 
 **ภาพตัวอย่าง Demo Image**
 
