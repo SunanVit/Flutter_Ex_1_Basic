@@ -65,7 +65,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.deepPurple,
                   ),
                   title: Text(
-                    '081-4411-4160',
+                    '+6689-888-8889',
                     style: TextStyle(
                       color: Colors.deepPurple,
                       fontSize: 18.0,
@@ -83,7 +83,7 @@ class MyApp extends StatelessWidget {
                   color: Colors.deepPurple,
                 ),
                 title: Text(
-                  'vitwebmaster@outlook.com',
+                  'your@email.com',
                   style: TextStyle(
                     color: Colors.deepPurple,
                     fontSize: 18.0,
