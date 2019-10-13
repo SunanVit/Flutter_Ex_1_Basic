@@ -31,3 +31,6 @@
 **ภาพตัวอย่าง Demo Image**
 
 ![Image of ex1](https://github.com/SunanVit/Flutter_Ex_1_Basic/blob/master/demo.ex1.png)
+
+
+![Image of ex1](https://github.com/SunanVit/Flutter_Ex_1_Basic/blob/master/Cover.jpg)
