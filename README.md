@@ -18,7 +18,12 @@
 ไปที่โฟลเดอร์ที่จะสร้าง Project เช่น D:\Android_Studio_Projects\
   ก็ให้พิมพ์ 
   d: [Enter]
+  
   cd Android_Studio_Projects  [Enter]
+  
   git clone https://github.com/SunanVit/Flutter_Ex_1_Basic.git  [Enter]
+  
 
 เพียงเท่านี้ก็จะได้โค้ดตัวอย่างในการเริ่มต้นแล้ว
+
+![Image of ex1](https://github.com/SunanVit/Flutter_Ex_1_Basic/blob/master/ex1.png)
